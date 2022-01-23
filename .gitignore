@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 *.xml
 Activities/01-Ins_ETL_Pandas/README.md
+*.pdf
